@@ -1,5 +1,5 @@
-# zen-cart.com
-Support Website Home Page - static HTML site
+# zen-cart.com Website Homepage
+Static HTML site for the ZC Support Website's Home Page
 
 The home page of zen-cart.com is both a marketing/promotional page, as well as a directory of links to the Zen Cart ecosystem.
 
