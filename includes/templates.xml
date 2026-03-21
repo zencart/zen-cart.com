@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <template id="1">
+        <name>Responsive Classic Redesign</name>
+        <price>Free</price>
+        <price_class>text-green-color</price_class> <description>A clean, minimal, and fully responsive template designed specifically for fashion, clothing, and boutique stores. Features a built-in mega menu and optimized one-page checkout compatibility.</description>
+        <author>chadlly2003</author>
+        <version>V4C</version>
+        <compatibility>Zen Cart 2.1.0, 2.2.0</compatibility>
+        <image_main>assets/images/templates/rcd/large-1.jpg</image_main>
+        <gallery>
+            <image>assets/images/templates/rcd/gallery-1.jpg</image>
+            <image>assets/images/templates/rcd/gallery-2.jpg</image>
+            <image>assets/images/templates/rcd/gallery-3.jpg</image>
+        </gallery>
+        <download_link><![CDATA[https://www.zen-cart.com/downloads.php?do=file&id=2403]]></download_link>
+        <demo_link><![CDATA[https://www.zencartdemo.com/]]></demo_link>
+    </template>
+
+    <template id="2">
+        <name>ZCA Bootstrap Template</name>
+        <price>Free</price>
+        <price_class>text-green-color</price_class> <description>A clean, minimal, and fully responsive template designed specifically for fashion, clothing, and boutique stores. Features a built-in mega menu and optimized one-page checkout compatibility.</description>
+        <author>lat9, rbarbour</author>
+        <version>3.7.8</version>
+        <compatibility>Zen Cart 1.5.8, 2.0.0, 2.1.0</compatibility>
+        <image_main>assets/images/templates/zcabs/large-1.jpg</image_main>
+        <gallery>
+            <image>assets/images/templates/zcabs/gallery-1.jpg</image>
+            <image>assets/images/templates/zcabs/gallery-2.jpg</image>
+            <image>assets/images/templates/zcabs/gallery-3.jpg</image>
+        </gallery>
+        <download_link><![CDATA[https://www.zen-cart.com/downloads.php?do=file&id=2191]]></download_link>
+        <demo_link><![CDATA[https://zc158.vinosdefrutastropicales.com/zc158/index.php?main_page=index]]></demo_link>
+    </template>
+
+    <template id="3">
+        <name>Fluorspar</name>
+        <price>Free</price>
+        <price_class>text-green-color</price_class> <description>A clean, minimal, and fully responsive template designed specifically for fashion, clothing, and boutique stores. Features a built-in mega menu and optimized one-page checkout compatibility.</description>
+        <author>peejay, Gozzandes</author>
+        <version>1.8.1</version>
+        <compatibility>Zen Cart 2.0.0</compatibility>
+        <image_main>assets/images/templates/fluorspar/large-1.jpg</image_main>
+        <gallery>
+            <image>assets/images/templates/fluorspar/gallery-1.jpg</image>
+            <image>assets/images/templates/fluorspar/gallery-2.jpg</image>
+            <image>assets/images/templates/fluorspar/gallery-3.jpg</image>
+        </gallery>
+        <download_link><![CDATA[https://www.zen-cart.com/downloads.php?do=file&id=2227]]></download_link>
+        <demo_link><![CDATA[https://www.zenofobe.com/demos/?skin=fluorspar]]></demo_link>
+    </template>
+
+    <template id="4">
+        <name>TechStore Pro Theme</name>
+        <price>$49.00</price>
+        <price_class>text-red-color</price_class> <description>A high-performance premium template built for electronics and massive inventories. Includes advanced search filtering and a sticky cart.</description>
+        <author>ZenExpert</author>
+        <version>1.0.5</version>
+        <compatibility>Zen Cart 2.0.0, 2.1.0, 2.2.0</compatibility>
+        <image_main>assets/images/templates/demo/pexels-tranmautritam-326514.jpg</image_main>
+        <gallery>
+        </gallery>
+        <download_link><![CDATA[https://www.zen-cart.com/index.php]]></download_link>
+        <demo_link><![CDATA[https://www.zen-cart.com/index.php]]></demo_link>
+    </template>
+</templates>
